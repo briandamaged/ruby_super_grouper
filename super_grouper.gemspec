@@ -1,7 +1,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'super_grouper'
-  s.version     = '1.0.0.alpha.1'
+  s.version     = '0.1.0'
   s.date        = '2016-09-30'
   s.summary     = "Convert collections into hierarchical groups"
   s.description = "Convert collections into hierarchical groups"
